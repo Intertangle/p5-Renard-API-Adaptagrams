@@ -1,5 +1,5 @@
 use Renard::Incunabula::Common::Setup;
-package Intertangle::API::Adaptagrams;
+package Graphics::Layout::Adaptagrams;
 # ABSTRACT: API for Adaptagrams diagramming library
 
 use Mu;
